@@ -1,0 +1,4 @@
+En win : mingw32-make 
+	  bs
+En linux : make 
+	  ./bs

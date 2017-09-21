@@ -1,0 +1,8 @@
+universidaddechile:ude:3:2:misil:15
+universidadcatolica:cdu:3:2:misil:15
+unionespanola:ues:3:2:misil:15
+colocolo:cc:2:1:bomba:14000
+deportestemuco:dt:2:1:bomba:14000
+iquique:iq:2:1:bomba:14000
+serena:s:1:1:bomba:14000
+valdivia:v:1:1:bomba:14000
